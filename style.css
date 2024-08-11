@@ -134,6 +134,7 @@ footer nav ul li {
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    padding-left: 100px;
     text-align: center; 
 }
 
